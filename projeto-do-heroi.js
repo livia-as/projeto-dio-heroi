@@ -1,8 +1,3 @@
-// Variáveis: let, const
-// Operadores: switch case
-// Laços de repetição: 
-// Estruturas de decisões:
-
 let nome = "Galáxia-Azul"
 let xp = 7.102
 let nivel = ""
